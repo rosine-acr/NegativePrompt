@@ -150,6 +150,3 @@ Adapter le prompt apparaît plus efficace que modifier le modèle.
 ##  Auteurs
 
 - Rosine AUCLAIR 
-- Besma BEKHTAOUI 
-- Yasmine EL HOUSSAINI 
-- Wydad FULBERT 
