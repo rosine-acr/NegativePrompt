@@ -1,0 +1,6 @@
+transformers
+datasets
+accelerate
+sentencepiece
+tqdm
+fire
